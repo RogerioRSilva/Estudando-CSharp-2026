@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProejtoEstudandoCSharp.EntradaDeDados
+namespace ProjetoEstudandoCSharp.EntradaDeDados
 {
     internal class ExemploEntradaDeDados
     {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProejtoEstudandoCSharp.Variaveis
+namespace ProjetoEstudandoCSharp.Variaveis
 {
     internal class ExemploVariaveis
     {

@@ -44,6 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EntradaDeDados\ExemploEntradaDeDados.cs" />
+    <Compile Include="EntradaDeDados\ExercicioEntradaDados01.cs" />
+    <Compile Include="EntradaDeDados\ExercicioEntradaDados02.cs" />
+    <Compile Include="OperadoresAritimeticos\ExemploOperadoresAtitimeticos.cs" />
+    <Compile Include="OperadoresAritimeticos\ExerciciosOperadoresAritmeticos01.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SaidaDeDados\ExemploSaidaDeDados.cs" />

@@ -1,8 +1,10 @@
-﻿using ProejtoEstudandoCSharp.SaidaDeDados;
-using ProejtoEstudandoCSharp.Variaveis;
-using ProejtoEstudandoCSharp.EntradaDeDados;
+﻿using ProjetoEstudandoCSharp.SaidaDeDados;
+using ProjetoEstudandoCSharp.Variaveis;
+using ProjetoEstudandoCSharp.EntradaDeDados;
+using ProjetoEstudandoCSharp.OperadoresAritimeticos;
+using ProejtoEstudandoCSharp.OperadoresAritimeticos;
 
-namespace ProejtoEstudandoCSharp
+namespace ProjetoEstudandoCSharp
 {
     internal class Program
     {
@@ -17,8 +19,12 @@ namespace ProejtoEstudandoCSharp
             //ExemploVariaveis.executar();
             //ExercicioVariaveis01.executar();
 
-            ExemploEntradaDeDados.executar();
+            //ExemploEntradaDeDados.executar();
+            //ExercicioEntradaDados01.executar();
+            //ExercicioEntradaDados02.executar();
 
+            ExemploOperadoresAtitimeticos.executar();
+            //ExerciciosOperadoresAritmeticos01.executar();
         }
     }
 }

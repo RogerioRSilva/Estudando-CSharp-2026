@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProejtoEstudandoCSharp.SaidaDeDados
+namespace ProjetoEstudandoCSharp.SaidaDeDados
 {
     internal class NormalizacaoDados
     {
