@@ -2,7 +2,10 @@
 using ProjetoEstudandoCSharp.Variaveis;
 using ProjetoEstudandoCSharp.EntradaDeDados;
 using ProjetoEstudandoCSharp.OperadoresAritimeticos;
-using ProejtoEstudandoCSharp.OperadoresAritimeticos;
+using ProjetoEstudandoCSharp.OperadoresRelacionais;
+using ProjetoEstudandoCSharp.OperadoresLogicos;
+using ProjetoEstudandoCSharp.EstruturaDeDecisao;
+
 
 namespace ProjetoEstudandoCSharp
 {
@@ -23,8 +26,24 @@ namespace ProjetoEstudandoCSharp
             //ExercicioEntradaDados01.executar();
             //ExercicioEntradaDados02.executar();
 
-            ExemploOperadoresAtitimeticos.executar();
+            //ExemploOperadoresAtitimeticos.executar();
             //ExerciciosOperadoresAritmeticos01.executar();
+            //ExerciciosOperadoresAritmeticos02.executar();
+
+            //ExemploOperadoresRelacionais.executar();
+            //ExemploOperadoresLogicos.executar();
+            ExemploEstruturaDecisaoIF.executar();
+            //ExemploEstruturaDecisaoSwitch.executar();
+            //ExerciciosEstruturaDecisao01.executar();
+            //ExerciciosEstruturaDecisao02.executar();
+            //ExerciciosEstruturaDecisao03.executar();
+            //ExerciciosEstruturaDecisao04.executar();
+            //ExerciciosEstruturaDecisao05.executar();
+            //ExerciciosEstruturaDecisao06.executar();
+            //ExerciciosEstruturaDecisao07.executar();
+
+
+
         }
     }
 }
