@@ -5,6 +5,7 @@ using ProjetoEstudandoCSharp.OperadoresAritimeticos;
 using ProjetoEstudandoCSharp.OperadoresRelacionais;
 using ProjetoEstudandoCSharp.OperadoresLogicos;
 using ProjetoEstudandoCSharp.EstruturaDeDecisao;
+using ProjetoEstudandoCSharp.EstruturaDeRepeticao;
 
 
 namespace ProjetoEstudandoCSharp
@@ -32,7 +33,7 @@ namespace ProjetoEstudandoCSharp
 
             //ExemploOperadoresRelacionais.executar();
             //ExemploOperadoresLogicos.executar();
-            ExemploEstruturaDecisaoIF.executar();
+            //ExemploEstruturaDecisaoIF.executar();
             //ExemploEstruturaDecisaoSwitch.executar();
             //ExerciciosEstruturaDecisao01.executar();
             //ExerciciosEstruturaDecisao02.executar();
@@ -41,6 +42,8 @@ namespace ProjetoEstudandoCSharp
             //ExerciciosEstruturaDecisao05.executar();
             //ExerciciosEstruturaDecisao06.executar();
             //ExerciciosEstruturaDecisao07.executar();
+
+            ExemploEstruturaRepeticaoFOR.Executar();
 
 
 
