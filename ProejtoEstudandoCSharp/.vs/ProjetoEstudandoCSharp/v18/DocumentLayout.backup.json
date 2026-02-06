@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|c:\\repositorio\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturaderepeticao\\exemploestruturarepeticaofor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturaderepeticao\\exemploestruturarepeticaofor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|c:\\repositorio\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturadedados\\exemplolistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedados\\exemplolistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|c:\\repositorio\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|c:\\repositorio\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturaderepeticao\\exemploestruturarepeticaofor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturaderepeticao\\exemploestruturarepeticaofor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|c:\\repositorio\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\entradadedados\\exemploentradadedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\entradadedados\\exemploentradadedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|c:\\repositorio\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\operadoresaritimeticos\\exemplooperadoresatitimeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\operadoresaritimeticos\\exemplooperadoresatitimeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +33,17 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExemploEstruturaRepeticaoFOR.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoFOR.cs",
+              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoFOR.cs",
+              "ToolTip": "C:\\Repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoFOR.cs",
+              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoFOR.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:03:02.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,22 +53,48 @@
               "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\Program.cs",
               "ToolTip": "C:\\Repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\Program.cs",
               "RelativeToolTip": "ProejtoEstudandoCSharp\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC0AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwAkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T10:34:31.57Z",
+              "WhenOpened": "2026-02-06T10:49:37.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExemploEstruturaRepeticaoFOR.cs",
-              "DocumentMoniker": "C:\\Repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoFOR.cs",
-              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoFOR.cs",
-              "ToolTip": "C:\\Repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoFOR.cs",
-              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoFOR.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Title": "ExemploListas.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExemploListas.cs",
+              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExemploListas.cs",
+              "ToolTip": "C:\\Repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExemploListas.cs",
+              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExemploListas.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowDQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T10:18:56.284Z",
+              "WhenOpened": "2026-02-06T10:00:25.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExemploEntradaDeDados.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EntradaDeDados\\ExemploEntradaDeDados.cs",
+              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EntradaDeDados\\ExemploEntradaDeDados.cs",
+              "ToolTip": "C:\\Repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EntradaDeDados\\ExemploEntradaDeDados.cs",
+              "RelativeToolTip": "ProejtoEstudandoCSharp\\EntradaDeDados\\ExemploEntradaDeDados.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:59:11.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExemploOperadoresAtitimeticos.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\OperadoresAritimeticos\\ExemploOperadoresAtitimeticos.cs",
+              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\OperadoresAritimeticos\\ExemploOperadoresAtitimeticos.cs",
+              "ToolTip": "C:\\Repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\OperadoresAritimeticos\\ExemploOperadoresAtitimeticos.cs",
+              "RelativeToolTip": "ProejtoEstudandoCSharp\\OperadoresAritimeticos\\ExemploOperadoresAtitimeticos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:21:13.894Z",
               "EditorCaption": ""
             }
           ]

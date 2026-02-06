@@ -6,6 +6,8 @@ using ProjetoEstudandoCSharp.OperadoresRelacionais;
 using ProjetoEstudandoCSharp.OperadoresLogicos;
 using ProjetoEstudandoCSharp.EstruturaDeDecisao;
 using ProjetoEstudandoCSharp.EstruturaDeRepeticao;
+using ProjetoEstudandoCSharp.EntradaDeDados;
+using ProjetoEstudandoCSharp.EstruturaDeDados;
 
 
 namespace ProjetoEstudandoCSharp
@@ -43,7 +45,9 @@ namespace ProjetoEstudandoCSharp
             //ExerciciosEstruturaDecisao06.executar();
             //ExerciciosEstruturaDecisao07.executar();
 
-            ExemploEstruturaRepeticaoFOR.Executar();
+            //ExemploEstruturaRepeticaoFOR.Executar();
+
+            ExemploListas.Executar();
 
 
 

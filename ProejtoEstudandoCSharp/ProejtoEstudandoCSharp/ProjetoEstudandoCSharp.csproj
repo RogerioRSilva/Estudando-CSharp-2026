@@ -46,6 +46,7 @@
     <Compile Include="EntradaDeDados\ExemploEntradaDeDados.cs" />
     <Compile Include="EntradaDeDados\ExercicioEntradaDados01.cs" />
     <Compile Include="EntradaDeDados\ExercicioEntradaDados02.cs" />
+    <Compile Include="EstruturaDeDados\ExemploListas.cs" />
     <Compile Include="EstruturaDeDecisao\ExemploEstruturaDecisaoIF.cs" />
     <Compile Include="EstruturaDeDecisao\ExemploEstruturaDecisaoSwitch.cs" />
     <Compile Include="EstruturaDeDecisao\ExerciciosEstruturaDecisao01.cs" />
