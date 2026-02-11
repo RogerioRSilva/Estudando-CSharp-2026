@@ -1,0 +1,15 @@
+E:\repositorio\Estudando-CSharp-2026\TesteProject\bin\Debug\net9.0\TesteProject.exe
+E:\repositorio\Estudando-CSharp-2026\TesteProject\bin\Debug\net9.0\TesteProject.deps.json
+E:\repositorio\Estudando-CSharp-2026\TesteProject\bin\Debug\net9.0\TesteProject.runtimeconfig.json
+E:\repositorio\Estudando-CSharp-2026\TesteProject\bin\Debug\net9.0\TesteProject.dll
+E:\repositorio\Estudando-CSharp-2026\TesteProject\bin\Debug\net9.0\TesteProject.pdb
+E:\repositorio\Estudando-CSharp-2026\TesteProject\obj\Debug\net9.0\TesteProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositorio\Estudando-CSharp-2026\TesteProject\obj\Debug\net9.0\TesteProject.AssemblyInfoInputs.cache
+E:\repositorio\Estudando-CSharp-2026\TesteProject\obj\Debug\net9.0\TesteProject.AssemblyInfo.cs
+E:\repositorio\Estudando-CSharp-2026\TesteProject\obj\Debug\net9.0\TesteProject.csproj.CoreCompileInputs.cache
+E:\repositorio\Estudando-CSharp-2026\TesteProject\obj\Debug\net9.0\TesteProject.sourcelink.json
+E:\repositorio\Estudando-CSharp-2026\TesteProject\obj\Debug\net9.0\TesteProject.dll
+E:\repositorio\Estudando-CSharp-2026\TesteProject\obj\Debug\net9.0\refint\TesteProject.dll
+E:\repositorio\Estudando-CSharp-2026\TesteProject\obj\Debug\net9.0\TesteProject.pdb
+E:\repositorio\Estudando-CSharp-2026\TesteProject\obj\Debug\net9.0\TesteProject.genruntimeconfig.cache
+E:\repositorio\Estudando-CSharp-2026\TesteProject\obj\Debug\net9.0\ref\TesteProject.dll

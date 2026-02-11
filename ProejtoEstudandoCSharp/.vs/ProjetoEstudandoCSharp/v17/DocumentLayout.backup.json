@@ -1,42 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\",
+  "WorkspaceRootPath": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|f:\\repositorios\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|e:\\repositorio\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\manipulacaodestrings\\exemplomanipulacaostrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\manipulacaodestrings\\exemplomanipulacaostrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|f:\\repositorios\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|f:\\repositorios\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\proejtoestudandocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\proejtoestudandocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|f:\\repositorios\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturadedecisao\\exemploestruturadecisaoif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedecisao\\exemploestruturadecisaoif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|e:\\repositorio\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturaderepeticao\\exemploestruturarepeticaowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturaderepeticao\\exemploestruturarepeticaowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|f:\\repositorios\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\proejtoestudandocsharp\\desafiocsharp\\desafio01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\desafiocsharp\\desafio01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|f:\\repositorios\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\proejtoestudandocsharp\\estruturadedados\\exerciciolista02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedados\\exerciciolista02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|f:\\repositorios\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\proejtoestudandocsharp\\estruturadedados\\exemplolistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedados\\exemplolistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|f:\\repositorios\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedecisao\\exerciciosestruturadecisao01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\proejtoestudandocsharp\\estruturadedados\\exerciciolista01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedados\\exerciciolista01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExemploEstruturaDecisaoIF.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExemploEstruturaDecisaoIF.cs",
-              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExemploEstruturaDecisaoIF.cs",
-              "ToolTip": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExemploEstruturaDecisaoIF.cs",
-              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExemploEstruturaDecisaoIF.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAcwIwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T01:56:30.42Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExerciciosEstruturaDecisao08.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao08.cs",
-              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao08.cs",
-              "ToolTip": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao08.cs",
-              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao08.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBQAAAAOAAAAAAAAAA==",
+              "Title": "ExemploManipulacaoStrings.cs",
+              "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\ManipulacaoDeStrings\\ExemploManipulacaoStrings.cs",
+              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\ManipulacaoDeStrings\\ExemploManipulacaoStrings.cs",
+              "ToolTip": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\ManipulacaoDeStrings\\ExemploManipulacaoStrings.cs",
+              "RelativeToolTip": "ProejtoEstudandoCSharp\\ManipulacaoDeStrings\\ExemploManipulacaoStrings.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwD8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T01:56:02.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExerciciosEstruturaDecisao07.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao07.cs",
-              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao07.cs",
-              "ToolTip": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao07.cs",
-              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao07.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T01:54:24.351Z",
+              "WhenOpened": "2026-02-11T21:36:22.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ExerciciosEstruturaDecisao06.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao06.cs",
-              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao06.cs",
-              "ToolTip": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao06.cs",
-              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao06.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwDEAAAA9AAAAAAAAAA==",
+              "Title": "ExemploEstruturaRepeticaoWhile.cs",
+              "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoWhile.cs",
+              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoWhile.cs",
+              "ToolTip": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoWhile.cs",
+              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoWhile.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T01:51:28.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExerciciosEstruturaDecisao04.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao04.cs",
-              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao04.cs",
-              "ToolTip": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao04.cs",
-              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao04.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T01:47:52.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExerciciosEstruturaDecisao03.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao03.cs",
-              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao03.cs",
-              "ToolTip": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao03.cs",
-              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao03.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T01:46:24.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExerciciosEstruturaDecisao02.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao02.cs",
-              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao02.cs",
-              "ToolTip": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao02.cs",
-              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao02.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T01:46:04.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExerciciosEstruturaDecisao01.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao01.cs",
-              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao01.cs",
-              "ToolTip": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao01.cs",
-              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDecisao\\ExerciciosEstruturaDecisao01.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T01:45:09.606Z",
+              "WhenOpened": "2026-02-10T09:47:58.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\Program.cs",
-              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\Program.cs",
-              "ToolTip": "F:\\Repositorios\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\Program.cs",
-              "RelativeToolTip": "ProejtoEstudandoCSharp\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCIAAAAMAAAAAAAAAA==",
+              "Title": "Desafio01.cs",
+              "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\DesafioCSharp\\Desafio01.cs",
+              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\DesafioCSharp\\Desafio01.cs",
+              "ToolTip": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\DesafioCSharp\\Desafio01.cs",
+              "RelativeToolTip": "ProejtoEstudandoCSharp\\DesafioCSharp\\Desafio01.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T19:14:42.163Z",
+              "WhenOpened": "2026-02-08T21:05:02.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExercicioLista02.cs",
+              "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista02.cs",
+              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista02.cs",
+              "ToolTip": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista02.cs",
+              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista02.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:51:00.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\Program.cs",
+              "ToolTip": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\Program.cs",
+              "RelativeToolTip": "ProejtoEstudandoCSharp\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwD0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:36:07.347Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExercicioLista01.cs",
+              "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista01.cs",
+              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista01.cs",
+              "ToolTip": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista01.cs",
+              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista01.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:31:50.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExemploListas.cs",
+              "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExemploListas.cs",
+              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExemploListas.cs",
+              "ToolTip": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExemploListas.cs",
+              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExemploListas.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:31:25.54Z"
             }
           ]
         }

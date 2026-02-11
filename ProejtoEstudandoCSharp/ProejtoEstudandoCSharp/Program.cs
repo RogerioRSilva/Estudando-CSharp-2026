@@ -8,6 +8,10 @@ using ProjetoEstudandoCSharp.EstruturaDeDecisao;
 using ProjetoEstudandoCSharp.EstruturaDeRepeticao;
 using ProjetoEstudandoCSharp.EntradaDeDados;
 using ProjetoEstudandoCSharp.EstruturaDeDados;
+using ProjetoEstudandoCSharp.DesafioCSharp;
+using ProejtoEstudandoCSharp.EstruturaDeRepeticao;
+using ProjetoEstudandoCSharp.ManipulacaoDeStrings;
+
 
 
 namespace ProjetoEstudandoCSharp
@@ -47,9 +51,15 @@ namespace ProjetoEstudandoCSharp
 
             //ExemploEstruturaRepeticaoFOR.Executar();
 
-            ExemploListas.Executar();
+            //ExemploListas.Executar();
+            //ExercicioLista01.Executar();
+            //ExercicioLista02.Executar();
 
+            //Desafio01.Executar();
 
+            //ExemploEstruturaRepeticaoWhile.Executar();
+
+            ExemploManipulacaoStrings.Executar();
 
         }
     }

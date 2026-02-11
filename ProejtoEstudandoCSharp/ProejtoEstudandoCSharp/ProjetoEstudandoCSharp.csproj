@@ -43,10 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DesafioCSharp\Desafio01.cs" />
     <Compile Include="EntradaDeDados\ExemploEntradaDeDados.cs" />
     <Compile Include="EntradaDeDados\ExercicioEntradaDados01.cs" />
     <Compile Include="EntradaDeDados\ExercicioEntradaDados02.cs" />
     <Compile Include="EstruturaDeDados\ExemploListas.cs" />
+    <Compile Include="EstruturaDeDados\ExercicioLista01.cs" />
+    <Compile Include="EstruturaDeDados\ExercicioLista02.cs" />
     <Compile Include="EstruturaDeDecisao\ExemploEstruturaDecisaoIF.cs" />
     <Compile Include="EstruturaDeDecisao\ExemploEstruturaDecisaoSwitch.cs" />
     <Compile Include="EstruturaDeDecisao\ExerciciosEstruturaDecisao01.cs" />
@@ -58,6 +61,8 @@
     <Compile Include="EstruturaDeDecisao\ExerciciosEstruturaDecisao07.cs" />
     <Compile Include="EstruturaDeDecisao\ExerciciosEstruturaDecisao08.cs" />
     <Compile Include="EstruturaDeRepeticao\ExemploEstruturaRepeticaoFOR.cs" />
+    <Compile Include="EstruturaDeRepeticao\ExemploEstruturaRepeticaoWhile.cs" />
+    <Compile Include="ManipulacaoDeStrings\ExemploManipulacaoStrings.cs" />
     <Compile Include="OperadoresAritimeticos\ExemploOperadoresAtitimeticos.cs" />
     <Compile Include="OperadoresAritimeticos\ExerciciosOperadoresAritmeticos02.cs" />
     <Compile Include="OperadoresAritimeticos\ExerciciosOperadoresAritmeticos01.cs" />
