@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|e:\\repositorio\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturadedados\\exerciciolista03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedados\\exerciciolista03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\proejtoestudandocsharp\\estruturadedados\\exemplolistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedados\\exemplolistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\proejtoestudandocsharp\\estruturadedados\\exerciciolista01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedados\\exerciciolista01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|e:\\repositorio\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\manipulacaodestrings\\exemplomanipulacaostrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\manipulacaodestrings\\exemplomanipulacaostrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|e:\\repositorio\\estudando-csharp-2026\\proejtoestudandocsharp\\proejtoestudandocsharp\\estruturaderepeticao\\exemploestruturarepeticaowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\proejtoestudandocsharp\\estruturaderepeticao\\exemploestruturarepeticaowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturaderepeticao\\exemploestruturarepeticaowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\proejtoestudandocsharp\\estruturadedados\\exerciciolista02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedados\\exerciciolista02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\proejtoestudandocsharp\\estruturadedados\\exemplolistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedados\\exemplolistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\proejtoestudandocsharp\\estruturadedados\\exerciciolista01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3553314-6C22-4AF7-B710-6781FE756036}|ProejtoEstudandoCSharp\\ProjetoEstudandoCSharp.csproj|solutionrelative:proejtoestudandocsharp\\estruturadedados\\exerciciolista01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,19 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExercicioLista03.cs",
+              "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista03.cs",
+              "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista03.cs",
+              "ToolTip": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista03.cs",
+              "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:05:53.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ExemploManipulacaoStrings.cs",
               "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\ManipulacaoDeStrings\\ExemploManipulacaoStrings.cs",
               "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\ManipulacaoDeStrings\\ExemploManipulacaoStrings.cs",
               "ToolTip": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\ManipulacaoDeStrings\\ExemploManipulacaoStrings.cs",
               "RelativeToolTip": "ProejtoEstudandoCSharp\\ManipulacaoDeStrings\\ExemploManipulacaoStrings.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAYwD8AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwD8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T21:36:22.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ExemploEstruturaRepeticaoWhile.cs",
               "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoWhile.cs",
               "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoWhile.cs",
@@ -71,12 +88,11 @@
               "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeRepeticao\\ExemploEstruturaRepeticaoWhile.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwCoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T09:47:58.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T09:47:58.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Desafio01.cs",
               "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\DesafioCSharp\\Desafio01.cs",
               "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\DesafioCSharp\\Desafio01.cs",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ExercicioLista02.cs",
               "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista02.cs",
               "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista02.cs",
@@ -100,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\Program.cs",
               "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\Program.cs",
@@ -108,12 +124,11 @@
               "RelativeToolTip": "ProejtoEstudandoCSharp\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwD0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T20:36:07.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T20:36:07.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ExercicioLista01.cs",
               "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista01.cs",
               "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista01.cs",
@@ -121,19 +136,21 @@
               "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExercicioLista01.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAqwEAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T20:31:50.973Z"
+              "WhenOpened": "2026-02-08T20:31:50.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ExemploListas.cs",
               "DocumentMoniker": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExemploListas.cs",
               "RelativeDocumentMoniker": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExemploListas.cs",
               "ToolTip": "E:\\repositorio\\Estudando-CSharp-2026\\ProejtoEstudandoCSharp\\ProejtoEstudandoCSharp\\EstruturaDeDados\\ExemploListas.cs",
               "RelativeToolTip": "ProejtoEstudandoCSharp\\EstruturaDeDados\\ExemploListas.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T20:31:25.54Z"
+              "WhenOpened": "2026-02-08T20:31:25.54Z",
+              "EditorCaption": ""
             }
           ]
         }

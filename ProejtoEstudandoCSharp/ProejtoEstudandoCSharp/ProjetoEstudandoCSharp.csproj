@@ -50,6 +50,7 @@
     <Compile Include="EstruturaDeDados\ExemploListas.cs" />
     <Compile Include="EstruturaDeDados\ExercicioLista01.cs" />
     <Compile Include="EstruturaDeDados\ExercicioLista02.cs" />
+    <Compile Include="EstruturaDeDados\ExercicioLista03.cs" />
     <Compile Include="EstruturaDeDecisao\ExemploEstruturaDecisaoIF.cs" />
     <Compile Include="EstruturaDeDecisao\ExemploEstruturaDecisaoSwitch.cs" />
     <Compile Include="EstruturaDeDecisao\ExerciciosEstruturaDecisao01.cs" />
